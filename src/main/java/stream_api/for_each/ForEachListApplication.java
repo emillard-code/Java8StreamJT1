@@ -3,7 +3,7 @@ package stream_api.for_each;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ForEachApplication {
+public class ForEachListApplication {
 
     public static void main( String[] args ) {
 
